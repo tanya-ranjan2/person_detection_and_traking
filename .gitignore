@@ -1,0 +1,7 @@
+build/
+*.mp4
+*.jpg
+*.png
+*.avi
+*.pyc
+__pychache__/

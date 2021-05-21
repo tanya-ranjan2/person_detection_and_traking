@@ -8,6 +8,7 @@ The problem that we identified was that there has been a lot of times when you h
 Computer Vison, our main objective was to count the number of people through the CCTV cameras present in the area. The camera is going to send the feed to our algorithm and the data is processed and classified by it. Once it detects a person it then sees if he has gone into the shop or not. This will help us make a count of all the people visiting that mall or mart for that day.
 
 <h3><b>Questions that we wanted to answer:</b></h3>
+
 - Once we have the data of all the people entering the mart/ mall on that day, comparing it to the billing
 data will help tell us what number of people came in to window-shop (or how we put it 'For the cool
 air') and how many of them were genuine customers.
